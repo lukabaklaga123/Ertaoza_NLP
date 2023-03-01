@@ -6,6 +6,9 @@
  
  A general natural language tool for Python is called Etaoza NLP. Presently assisting:
  
+ ![download (1)](https://user-images.githubusercontent.com/80602473/222292080-714b3e74-f9c0-48a0-9704-ffd8efac6ba0.png)
+
+ 
 .Determine a phrase's language
 
 .Two strings' fast Levenshtein distance
