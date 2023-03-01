@@ -15,7 +15,6 @@
 
 .Get the string's best substring that is closer to a given pattern with less Levenshtein distance.
 
-.Obtain tokenizers and stemmers for many languages.
 
 .Emotion evaluation of words (with negation support).
 
