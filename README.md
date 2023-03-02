@@ -21,3 +21,21 @@
 .Known Entity The introduced text does not have to be perfect because of recognition, management, support for several languages, and acceptance of similar strings.
 
 .a classifier using natural language processing to categorize the intents of utterances.
+
+
+# Training Module
+
+failure analysis (mdl_type_r) ==
+
+![Schematic-integration-of-planning-failure-analysis-and-NLP-module-into-an-intelligent](https://user-images.githubusercontent.com/80602473/222568942-007bfc1b-2853-4ab3-bc28-e404de206b78.png)
+
+Sup.. Training system (For language identification / integration ) ==
+
+![2020-06-28-15-20-37](https://user-images.githubusercontent.com/80602473/222569296-086ea9df-61c0-4025-86db-e637b086ef33.png)
+
+used type of data modules == 
+
+![nlp2-1](https://user-images.githubusercontent.com/80602473/222570234-0901f9f1-569f-459e-834e-9cce11ed465a.png)
+
+
+
