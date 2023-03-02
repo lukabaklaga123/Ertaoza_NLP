@@ -23,6 +23,11 @@
 .a classifier using natural language processing to categorize the intents of utterances.
 
 
+# Permision/Goal
+
+As a result, you may use our model to generate Georgian text, and if you have a lot of computer power, you can improve your results by training the model on more Georgian text.
+
+
 # Training Module
 
 failure analysis (mdl_type_r) ==
@@ -37,5 +42,25 @@ used type of data modules ==
 
 ![nlp2-1](https://user-images.githubusercontent.com/80602473/222570234-0901f9f1-569f-459e-834e-9cce11ed465a.png)
 
+# TABLE OF CONTENTS
 
+1
+
+2
+
+...
+
+# Who is behind it?
+
+This project is developed by ERTAOZA Team
+
+If you need to contact us, you can do it at the email 
+
+# License
+
+Copyright ...
+
+The right to deal in the software without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), subject to the following requirements:
+
+Any copies or substantial parts of the Program must carry the aforementioned copyright notice and this permission notice.
 
