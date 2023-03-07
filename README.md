@@ -42,19 +42,49 @@ used type of data modules ==
 
 ![nlp2-1](https://user-images.githubusercontent.com/80602473/222570234-0901f9f1-569f-459e-834e-9cce11ed465a.png)
 
+Mathematical model of algorithmic training system D.O.C. SS2 to SS3 mode 
+
+(Reasoning model)
+
+![0_i6Xa9FXdsZO5ZwCM](https://user-images.githubusercontent.com/80602473/223413574-edcb5b42-b53e-4579-a3ed-e2d6eb33755e.png)
+
+Grammar Context (PiN)
+
+![0d253329cbabdc56cd8b549fd3e3cb59](https://user-images.githubusercontent.com/80602473/223414141-f98ed475-9862-44e3-bd81-a8c411e36cf6.jpg)
+
+NLP Procedure Syntax: (mode type : training sys . configuration . type . for . exe. py . nl./py for execute . for .nl/,.p . py )
+
+![R](https://user-images.githubusercontent.com/80602473/223417530-b7cffb9d-c32d-42c3-a64d-84113cc15adb.png)\
+
+QDGAT == > 
+
+They largely follow the NumNet architecture with significant extension of how Graph representations are handled, which also leads to significant improvement in performance. Graphs now take into account the types of numbers included in each sentence and the entity they relate to. Edge creation still represents the fact that two nodes coexist in a sentence. As before a Graph neutral network (GNN) is trained on those and different output layers are used for the different types of answers : 
+
+![0_f48-ZQ_hfubzAtsK](https://user-images.githubusercontent.com/80602473/223422509-ca50c8e4-9d52-4042-a767-d189e6762efd.png)
+
+Multi-Head Self Attention in NLP 
+
+![1_xCeAOFp17t-NcWWpF2k9Gw](https://user-images.githubusercontent.com/80602473/223426374-e325bdab-ee90-490c-8173-6c2250beba63.png)
+
+
+
 # TABLE OF CONTENTS
 
 1
 
 2
 
+3
+
+4
 ...
 
 # Who is behind it?
 
 This project is developed by ERTAOZA Team
 
-If you need to contact us, you can do it at the email 
+If you need to contact us, you can do it at the email   support@ertaoza.ge
+
 
 # License
 
